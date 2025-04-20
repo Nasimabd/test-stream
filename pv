@@ -9,5 +9,4 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"clearkeys":{"48770df3a19f446b89f963bf697419ed":"bdd4c9ad6b80ae0b402c0046bf580c67","44fd600a308340e889923527ed1e8c2e":"2db0a263b9eabffb567f6f25cdfdc73d","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}}|Content-Type=application/json
-
 https://abgpkc7aaaaaaaamojasmrmkgulg4.s3-bom-ww.cf.dash.row.aiv-cdn.net/dm/3$0CiAIAiAlMAFSBoDAAoHwA3oDgLgXggEBAYgBBJIBAwoBJRgB/1@bf66b7604c84dfd0c0c6896ea43c1ab0d/7a43/c08d/a1c3/472d-99f5-492fd41d9070/4c25f714-bf9a-42e5-8db3-0e8c54cb9fd7.mpd?custom=true&encoding=segmentBase&amznDtid=AOAGZA014O5RE&encoding=segmentBase
